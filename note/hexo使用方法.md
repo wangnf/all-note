@@ -1,3 +1,5 @@
+# hexo 的使用方法
+
 - 1.基于node
 - 2.npm包管理工具
 - 3.npm install -g hexo(hexo-cli)
